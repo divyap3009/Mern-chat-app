@@ -2,6 +2,10 @@
 
 This repository contains a full-stack MERN (MongoDB, Express.js, React.js, Node.js) Chat application. Built with modern web development technologies, this application provides a real-time chat experience for users to communicate with each other.
 
+### Deployment:
+
+The application is deployed and accessible at https://talk-a-tive-7fgq.onrender.com/
+
 ### Features:
 
 - **Real-time Communication:** Instant messaging functionality allows users to exchange messages in real-time.
